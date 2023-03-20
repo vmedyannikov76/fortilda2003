@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');*{
+	margin : 0;
+	padding : 0;
+	box-sizing : border-box;
+	font-family : Ubuntu, sans-serif;
+	}
+a{
+	text-decoration : none;
+	color : inherit;
+	
+	}
+body{
+	background-color: #323b4d;
+	color: #fff;
+	padding: 1em .5em;
+	}
+.wrapper{
+
+	}
+.header {
+	font-weight : 700;
+	margin-bottom: 1em
+	}
+
+.logo {
+	font-size : 2rem;
+	}
+
+.tilda {
+	font-size : 4rem;
+	color : #cbde20;
+	}
+
+.ru {
+	}
+.prilojenie{
+
+
+	}
+.main {
+
+	}
+.prilojenie > *{
+	border: 1px solid red;
+	}
+.aside{
+	display : none;
+	}
+.footer__main{
+	display: none;
+	}
+.footer__mobile{
+	border: 1px solid #53a25e;
+	position : fixed;
+	bottom:0
+	}
